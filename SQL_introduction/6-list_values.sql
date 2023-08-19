@@ -1,3 +1,3 @@
 -- this script lists all the rows in the first_table table
 
-SELECT * FROM first_table
+SELECT * FROM first_table;
