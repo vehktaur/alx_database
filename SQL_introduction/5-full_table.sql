@@ -1,3 +1,3 @@
--- print first_table table description
+-- print first_table create table description
 
-SHOW CREATE TABLE
+SHOW CREATE TABLE first_table
